@@ -1,0 +1,3 @@
+[submodule "dev/toys"]
+	path = dev/toys
+	url = https://github.com/pflashgary/Julia-Design-Pattern
