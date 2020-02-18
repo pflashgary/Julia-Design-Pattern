@@ -1,2 +1,2 @@
 # Julia-Design-Pattern
-good practices of  design patterns in Julia
+Good practices of design patterns in Julia
